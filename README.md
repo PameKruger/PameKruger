@@ -1,6 +1,6 @@
 ![MasterHead](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?resize=1000,200)
 <h1 align="center">Hi 👋, I'm Pame Negrete</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate Back-end developer from Mexico</h3>
 
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdhYTA4MnAyOXB1Zml6enp3c2cxczg5ZzAxYmJjdTNqejNxeW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GaHBQh3f4jBEpbQvP/giphy.webp">
 
